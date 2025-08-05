@@ -1,0 +1,6 @@
+customerid,gender,age,annual_income_k$,spending_score_1_100,join_date
+1,male,19,15,39,2020-01-15
+2,female,21,16,81,2020-02-15
+3,female,20,17,6,2020-03-03
+4,male,23,18,77,2020-04-05
+5,female,31,19,40,
